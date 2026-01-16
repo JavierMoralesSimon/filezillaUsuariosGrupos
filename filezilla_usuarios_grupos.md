@@ -21,7 +21,7 @@
     ![Contraseña](https://github.com/JavierMoralesSimon/filezillaUsuariosGrupos/blob/main/Capturas/2.2.png)
   4. Lo hacemos miembro del grupo anteriormente creado.
     ![Miembro de grupo](https://github.com/JavierMoralesSimon/filezillaUsuariosGrupos/blob/main/Capturas/2.3.png)
-  5. Repetimos el proceso para crear otro usuario.
+  5. Repetimos el proceso para otro usuario.
     ![Creación del segundo usuario](https://github.com/JavierMoralesSimon/filezillaUsuariosGrupos/blob/main/Capturas/2.4.png)
 
 ## Permisos de grupo vs de usuario
